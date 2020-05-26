@@ -1,8 +1,8 @@
 # JanataHack: Machine Learning for IoT
 
    
-          Rank    |  Score(RMSE)
-          ---- |----------------
+|Rank|Score(RMSE)
+|----|-----------
 Public  |  125/202 |  13.9981
 private |  121/202 |  13.1523
 

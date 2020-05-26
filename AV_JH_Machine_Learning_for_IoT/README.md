@@ -28,8 +28,7 @@ DateTime |  Hourly Datetime Variable
 Junction  | Junction Type
 Vehicles   |Number of Vehicles (Target)
 
-
-
+<br/>
 <ins>sample_submission.csv</ins>
 
 

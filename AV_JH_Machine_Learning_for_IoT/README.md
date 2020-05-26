@@ -1,8 +1,8 @@
 # JanataHack: Machine Learning for IoT
 
    
-|Rank|Score(RMSE)
-|----|-----------
+Type|Rank|Score(RMSE)
+----|----|-----------
 Public  |  125/202 |  13.9981
 private |  121/202 |  13.1523
 
@@ -21,21 +21,21 @@ The sensors on each of these junctions were collecting data at different times, 
 
 ## Data Dictionary
 
-Variable	 Description
-
-ID         Unique ID
-DateTime   Hourly Datetime Variable
-Junction   Junction Type
-Vehicles   Number of Vehicles (Target)
+Variable|Description
+--------|-----------
+ID      |   Unique ID
+DateTime |  Hourly Datetime Variable
+Junction  | Junction Type
+Vehicles   |Number of Vehicles (Target)
 
 
 <ins>sample_submission.csv</ins>
 
 
-Column Name	 Description
-
-ID           Unique ID
-Vehicles     Number of Vehicles (Target)
+Column Name|Description
+-----------|-----------
+ID         |  Unique ID
+Vehicles    | Number of Vehicles (Target)
 
 
 
@@ -57,5 +57,5 @@ The final rankings would be based on your private score which will be published 
 
 Please ensure that your final submission includes the following:
 
-  1.Solution file containing the predicted number of vehicles for next 4 months (format is given in sample submission csv)
-  2.Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission
+  1. Solution file containing the predicted number of vehicles for next 4 months (format is given in sample submission csv)
+  2. Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission

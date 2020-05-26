@@ -30,7 +30,7 @@ Vehicles   |Number of Vehicles (Target)
 
 <br/>
 <ins>sample_submission.csv</ins>
-
+<br/>
 
 Column Name|Description
 -----------|-----------
